@@ -10,6 +10,10 @@ The resulting executable was tested under Windows 7 and 10.
 
 Full tutorial avaiable here: https://ontrak.net/VS2019Csharp.htm
 
+
+<img width="358" alt="csharpprog 1" src="https://user-images.githubusercontent.com/57152013/69270348-c0783e00-0ba0-11ea-8e42-dda0a8c6a9d9.png">
+
+
 Standard MIT license - Copyright 2019 Ontrak Control Systems Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

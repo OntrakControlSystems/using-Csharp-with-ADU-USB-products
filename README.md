@@ -7,7 +7,7 @@ The AduHid DLL provides all the functions to open a handle, read and write data,
 The sample program below is a rendition of our AduHidTest program demonstrating the proper method to utilize the functions within the ADUHID dll to communicate with ADU, USB based data acquisition products. The example also includes use of the functions ADUCount, GetADU and GetAduDeviceList which are new to the ADUHID and ADUHID64 dll's Ver 2.1.
 
 The resulting executable was tested under Windows 7 and 10.  
-
+(https://ontrak.net/csharpprog.png)
 Full tutorial avaiable here: https://ontrak.net/VS2019Csharp.htm
 
 Standard MIT license - Copyright 2019 Ontrak Control Systems Inc.

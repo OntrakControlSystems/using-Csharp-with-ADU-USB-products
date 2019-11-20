@@ -8,6 +8,8 @@ The sample program below is a rendition of our AduHidTest program demonstrating 
 
 The resulting executable was tested under Windows 7 and 10.  
 
+Full tutorial avaiable here: https://ontrak.net/VS2019Csharp.htm
+
 Standard MIT license - Copyright 2019 Ontrak Control Systems Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
